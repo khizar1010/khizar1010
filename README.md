@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizar1010
 -
-I’m Khizar Abidi, a graduate of BE in Electrical and Computer Engineering at NED University of Engineering and Technology, with a CGPA of 3.47/4 and IELTS band 6.5.
+I’m Khizar Abidi, a graduate of BE in Electrical and Computer Engineering at NED University of Engineering and Technology.
 
  
 
