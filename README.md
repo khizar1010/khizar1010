@@ -17,4 +17,4 @@ for wireless camera control and their object detections using Python Library.
 
 Before this I was engaging as a Research Assistant in SMART INFRASTRUCTURE TECHNOLOGY LABORATORY,  my main research goal was to work on crack detection and working
 on structural health monitoring. I was working on HRNet for semantic segmentation for crack detection (deep Learning). I also used Image processing to detect a crack
-in road surfaces and walls by working on a deep neural network
+in road surfaces and walls by working on a deep neural network.
